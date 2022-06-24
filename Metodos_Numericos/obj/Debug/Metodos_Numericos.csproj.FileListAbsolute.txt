@@ -1,0 +1,13 @@
+C:\Users\Daniel's\source\repos\Metodos_Numericos\Metodos_Numericos\bin\Debug\Metodos_Numericos.dll
+C:\Users\Daniel's\source\repos\Metodos_Numericos\Metodos_Numericos\bin\Debug\Metodos_Numericos.pdb
+C:\Users\Daniel's\source\repos\Metodos_Numericos\Metodos_Numericos\obj\Debug\Metodos_Numericos.csproj.AssemblyReference.cache
+C:\Users\Daniel's\source\repos\Metodos_Numericos\Metodos_Numericos\obj\Debug\Metodos_Numericos.Form1.resources
+C:\Users\Daniel's\source\repos\Metodos_Numericos\Metodos_Numericos\obj\Debug\Metodos_Numericos.Properties.Resources.resources
+C:\Users\Daniel's\source\repos\Metodos_Numericos\Metodos_Numericos\obj\Debug\Metodos_Numericos.UserControl1.resources
+C:\Users\Daniel's\source\repos\Metodos_Numericos\Metodos_Numericos\obj\Debug\Metodos_Numericos.csproj.GenerateResource.cache
+C:\Users\Daniel's\source\repos\Metodos_Numericos\Metodos_Numericos\obj\Debug\Metodos_Numericos.csproj.CoreCompileInputs.cache
+C:\Users\Daniel's\source\repos\Metodos_Numericos\Metodos_Numericos\obj\Debug\Metodos_Numericos.dll
+C:\Users\Daniel's\source\repos\Metodos_Numericos\Metodos_Numericos\obj\Debug\Metodos_Numericos.pdb
+C:\Users\Daniel's\source\repos\Metodos_Numericos\Metodos_Numericos\obj\Debug\Metodos_Numericos.Teoria_Eu.resources
+C:\Users\Daniel's\source\repos\Metodos_Numericos\Metodos_Numericos\obj\Debug\Metodos_Numericos.Form2.resources
+C:\Users\Daniel's\source\repos\Metodos_Numericos\Metodos_Numericos\obj\Debug\Metodos_Numericos.Form3.resources
